@@ -1,6 +1,6 @@
 # Java-Graphics-Engine
 ## Graphics Engine For Java 8
-#### Click on Clone Or Download and then Download ZIP.
+#### Click on "Clone Or Download" and then "Download ZIP".
 
 ## How to add Jar to IntelliJ
 #### Firstly, extract the ZIP file in your downloads
