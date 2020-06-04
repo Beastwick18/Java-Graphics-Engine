@@ -3,7 +3,7 @@
 Click on "Clone Or Download" and then "Download ZIP".
 
 ## How to add Jar to IntelliJ
-Firstly, extract the ZIP file in your downloads or type in 
+First, extract the ZIP file in your downloads or type in 
 ```git
 git clone https://github.com/Beastwick18/Java-Graphics-Engine
 ```
